@@ -32,6 +32,7 @@ Not dank:
 - var
 - jquery
 - any html 
+- questions regarding the methodology of dankjs
 
 Dank:
 - prettier
