@@ -50,4 +50,8 @@ Dank:
 - 'Douglas Crockford' exists in code
   - not as a comment
 - ...
+- any .un~ detected in your src (bonus dankage)
+- code contains memes
+  - memes are functional
+
 
