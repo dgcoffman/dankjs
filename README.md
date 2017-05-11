@@ -17,7 +17,7 @@ yarn dank
 ## Output
 
 ```
-how dank ur shit is and why
+A definitive assessment of the danktitude of your code
 ```
 
 ## Dankness criteria
@@ -31,7 +31,7 @@ Not dank:
 - the keyword 'function'
 - var
 - jquery
-- 
+- any html 
 
 Dank:
 - prettier
