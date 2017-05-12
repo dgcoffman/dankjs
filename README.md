@@ -54,5 +54,6 @@ Dank:
 - any .un~ detected in your src (bonus dankage)
 - code contains memes
   - memes are functional
-
-
+- Fucks
+  - Fucks in comments (dankness intesifies slightly) ie: // what the fuck is this
+  - Fucks in code (dankness intesifies greatly)  ie : let fucksGiven = 0;
